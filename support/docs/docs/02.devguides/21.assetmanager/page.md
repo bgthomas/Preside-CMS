@@ -176,9 +176,9 @@ settings.assetmanager.folders.profileImages = {
       }
 };
 
-settings.assetmanager.location.public    = ExpandPath( "/uploads/public" );
-settings.assetmanager.location.private   = ExpandPath( "/uploads/private" );
-settings.assetmanager.location.trash     = ExpandPath( "/uploads/.trash" );
+settings.assetmanager.storage.public    = ExpandPath( "/uploads/public" );
+settings.assetmanager.storage.private   = ExpandPath( "/uploads/private" );
+settings.assetmanager.storage.trash     = ExpandPath( "/uploads/.trash" );
 settings.assetmanager.location.publicUrl = "//static.mysite.com/";
 ```
 
